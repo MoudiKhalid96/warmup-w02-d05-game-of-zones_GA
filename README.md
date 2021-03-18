@@ -1,6 +1,9 @@
 ![](https://i.imgur.com/gXRzAcl.gif)
 
 # Game of Zones
+<small style="color: gray">This was work from <span title="General Assembly">GA</span></small>
+
+---
 
 When you play the Game of Zones, you win, or ... well you don't die but you might not win. We're going to be building some interactive games using our new knowledge of EVENTS, compounding our previous knowledge of functions and JavaScript fundamentals.
 
